@@ -1,0 +1,13 @@
+step1:
+open the anaconda 
+
+step2:
+activate  plant
+
+step3:
+
+cd project folder path
+
+
+step4:
+python app.py
